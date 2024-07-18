@@ -1,0 +1,302 @@
+[
+  {
+    "field_id": "00001",
+    "field_name": "HTML5 Document",
+    "field_type": "HTML5 DOC",
+    "field_pos": "00001",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00002",
+    "field_name": "oShell",
+    "field_type": "UM5_SHELL",
+    "field_pos": "00002",
+    "field_parent": "00001",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00003",
+    "field_name": "oApp",
+    "field_type": "UM5_APP",
+    "field_pos": "00003",
+    "field_parent": "00002",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00004",
+    "field_name": "oPageSync",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00004",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00005",
+    "field_name": "tabSync",
+    "field_type": "UM5_TABLE",
+    "field_pos": "00006",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00008",
+    "field_name": "colItemtabSync",
+    "field_type": "UM5_COLITM",
+    "field_pos": "00010",
+    "field_parent": "00005",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00011",
+    "field_name": "oPageHidden",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00021",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00012",
+    "field_name": "Init",
+    "field_type": "SCRIPT",
+    "field_pos": "00024",
+    "field_parent": "00011",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00013",
+    "field_name": "oFooterSync",
+    "field_type": "UM5_BAR",
+    "field_pos": "00026",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00014",
+    "field_name": "Right",
+    "field_type": "UM5_BARCON",
+    "field_pos": "00029",
+    "field_parent": "00013",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00016",
+    "field_name": "butStartSync",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00030",
+    "field_parent": "00014",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00018",
+    "field_name": "txttabSyncBUSY",
+    "field_type": "UM5_BUSYI",
+    "field_pos": "00020",
+    "field_parent": "00040",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00020",
+    "field_name": "txttabSyncQUANTITY",
+    "field_type": "UM5_OBJNUM",
+    "field_pos": "00016",
+    "field_parent": "00034",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00021",
+    "field_name": "Left",
+    "field_type": "UM5_BARCON",
+    "field_pos": "00027",
+    "field_parent": "00013",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00022",
+    "field_name": "oInfoSync",
+    "field_type": "UM5_OBJHEA",
+    "field_pos": "00005",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00023",
+    "field_name": "txttabSyncDESCR",
+    "field_type": "UM5_LINK",
+    "field_pos": "00015",
+    "field_parent": "00034",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00027",
+    "field_name": "coltabSyncICON",
+    "field_type": "UM5_COLUMN",
+    "field_pos": "00009",
+    "field_parent": "00005",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00028",
+    "field_name": "txttabSyncICON",
+    "field_type": "UM5_ICON",
+    "field_pos": "00019",
+    "field_parent": "00040",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00029",
+    "field_name": "oDatabase",
+    "field_type": "UI5DB",
+    "field_pos": "00022",
+    "field_parent": "00011",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00030",
+    "field_name": "IT_GLOBAL_SYNC",
+    "field_type": "UI5DB_TAB",
+    "field_pos": "00023",
+    "field_parent": "00029",
+    "chart_field_x": "APPLID",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00032",
+    "field_name": "coltabSyncDESCR",
+    "field_type": "UM5_COLUMN",
+    "field_pos": "00007",
+    "field_parent": "00005",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00034",
+    "field_name": "boxDESCR",
+    "field_type": "UM5_VBOX",
+    "field_pos": "00011",
+    "field_parent": "00008",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00035",
+    "field_name": "coltabSyncDATE",
+    "field_type": "UM5_COLUMN",
+    "field_pos": "00008",
+    "field_parent": "00005",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00037",
+    "field_name": "boxDATE",
+    "field_type": "UM5_VBOX",
+    "field_pos": "00012",
+    "field_parent": "00008",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00038",
+    "field_name": "txttabSyncDATE",
+    "field_type": "UM5_TEXT",
+    "field_pos": "00017",
+    "field_parent": "00037",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00039",
+    "field_name": "txttabSyncTIME",
+    "field_type": "UM5_TEXT",
+    "field_pos": "00018",
+    "field_parent": "00037",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00040",
+    "field_name": "oVBox",
+    "field_type": "UM5_VBOX",
+    "field_pos": "00013",
+    "field_parent": "00008",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00041",
+    "field_name": "Functions",
+    "field_type": "SCRIPT",
+    "field_pos": "00025",
+    "field_parent": "00011",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00042",
+    "field_name": "butOffline",
+    "field_type": "UM5_SWITCH",
+    "field_pos": "00028",
+    "field_parent": "00021",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00043",
+    "field_name": "Resources",
+    "field_type": "RESOURCES",
+    "field_pos": "00031",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  }
+]

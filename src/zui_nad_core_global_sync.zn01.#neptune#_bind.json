@@ -1,0 +1,18 @@
+[
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_GLOBAL_SYNC",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00030",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_GLOBAL_SYNC",
+    "binding_root_field_id": "00000"
+  }
+]

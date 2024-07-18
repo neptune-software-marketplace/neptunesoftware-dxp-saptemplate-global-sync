@@ -1,0 +1,17 @@
+[
+  {
+    "field_id": "00005",
+    "event": "cacheInitLoadFinished",
+    "file_name": "zui_nad_core_global_sync.zn01.#neptune#_evtscr.tabSync.00005.cacheInitLoadFinished.js"
+  },
+  {
+    "field_id": "00023",
+    "event": "press",
+    "file_name": "zui_nad_core_global_sync.zn01.#neptune#_evtscr.txttabSyncDESCR.00023.press.js"
+  },
+  {
+    "field_id": "00042",
+    "event": "change",
+    "file_name": "zui_nad_core_global_sync.zn01.#neptune#_evtscr.butOffline.00042.change.js"
+  }
+]

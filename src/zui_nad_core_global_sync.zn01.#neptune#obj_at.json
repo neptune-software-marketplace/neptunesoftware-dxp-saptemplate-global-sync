@@ -1,0 +1,284 @@
+[
+  {
+    "field_id": "00004",
+    "attribute": "navButtonPress",
+    "grouping": "Events",
+    "value": "AppCache.Back();"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "showNavButton",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Global Sync"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "cacheInitLoadFinished",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "fixedLayout",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "mode",
+    "grouping": "Properties",
+    "value": "MultiSelect"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "setCacheGlobal",
+    "grouping": "Model",
+    "value": "true"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "setCacheType",
+    "grouping": "Model",
+    "value": "WebSQL"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "setEnableCache",
+    "grouping": "Model",
+    "value": "true"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "setInitLoad",
+    "grouping": "Model",
+    "value": "cache"
+  },
+  {
+    "field_id": "00008",
+    "attribute": "selected",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-SELECTED}"
+  },
+  {
+    "field_id": "00013",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00014",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00016",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00016",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "startSync();"
+  },
+  {
+    "field_id": "00016",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Sync"
+  },
+  {
+    "field_id": "00016",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "Emphasized"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "design",
+    "grouping": "Properties",
+    "value": "dark"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-BUSY}"
+  },
+  {
+    "field_id": "00020",
+    "attribute": "number",
+    "grouping": "Formatter",
+    "value": "number:Decimals0"
+  },
+  {
+    "field_id": "00020",
+    "attribute": "number",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-QUANTITY}"
+  },
+  {
+    "field_id": "00020",
+    "attribute": "numberUnit",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-UNIT}"
+  },
+  {
+    "field_id": "00021",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentLeft"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://synchronize"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "Synchronize"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "numberUnit",
+    "grouping": "Properties",
+    "value": "Subscribers"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "responsive",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Offline Support"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-DESCR}"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "End"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Status"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "vAlign",
+    "grouping": "Properties",
+    "value": "Middle"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "50px"
+  },
+  {
+    "field_id": "00028",
+    "attribute": "color",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-STAT_COLOR}"
+  },
+  {
+    "field_id": "00028",
+    "attribute": "src",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-STAT_ICON}"
+  },
+  {
+    "field_id": "00032",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Application"
+  },
+  {
+    "field_id": "00032",
+    "attribute": "vAlign",
+    "grouping": "Properties",
+    "value": "Middle"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Last Sync"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "vAlign",
+    "grouping": "Properties",
+    "value": "Middle"
+  },
+  {
+    "field_id": "00038",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-SYNC_DATE}"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_GLOBAL_SYNC-SYNC_TIME}"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "change",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "customTextOff",
+    "grouping": "Properties",
+    "value": "Offline"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "customTextOn",
+    "grouping": "Properties",
+    "value": "Online"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "state",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "AcceptReject"
+  }
+]

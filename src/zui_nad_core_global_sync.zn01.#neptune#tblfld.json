@@ -1,0 +1,123 @@
+[
+  {
+    "field_id": "00030",
+    "keyfield": "APPLID",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "APPLID",
+    "field_pos": "004",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "CATEGORY",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "CATEGORY",
+    "field_pos": "005",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "DESCR",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "DESCR",
+    "field_pos": "006",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "FUNCSYNC",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "FUNCSYNC",
+    "field_pos": "007",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "QUANTITY",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "QUANTITY",
+    "field_pos": "008",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "SELECTED",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "SELECTED",
+    "field_pos": "003",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "STAT_COLOR",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "STAT_COLOR",
+    "field_pos": "014",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "STAT_ICON",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "STAT_ICON",
+    "field_pos": "013",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "SYNC_DATE",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "SYNC_DATE",
+    "field_pos": "011",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "SYNC_TIME",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "SYNC_TIME",
+    "field_pos": "012",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "keyfield": "UNIT",
+    "outputlen": "000000",
+    "decimals": "000000",
+    "datatype": "g",
+    "reptext": "UNIT",
+    "field_pos": "009",
+    "visible": "X"
+  },
+  {
+    "field_id": "00030",
+    "tabname": "BOOLEAN",
+    "keyfield": "BUSY",
+    "domname": "BOOLEAN",
+    "outputlen": "000001",
+    "decimals": "000000",
+    "datatype": "C",
+    "field_pos": "010",
+    "visible": "X"
+  }
+]
